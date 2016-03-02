@@ -2,27 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f434b24-33e2-4bfc-996a-d63d6fe27d5c" name="Default" comment="added tutorial 4 - &quot;While loops&quot;">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial1/out/production/tutorial1/Application.class" afterPath="$PROJECT_DIR$/../tutorial1/out/production/tutorial1/Application.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial2/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../tutorial2/.idea/workspace.xml" />
-    </list>
-    <list id="70d92e8f-9f5a-4e88-86df-4222e20b901f" name="Rejected commit: Default" comment="added tutorial 4 - &quot;While loops&quot;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Application.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/findbugs-idea.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tutorial4.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="tutorial4.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <file path="$PROJECT_DIR$/.idea/workspace.xml" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -333,6 +320,13 @@
       <option name="number" value="Default" />
       <updated>1456931849402</updated>
     </task>
+    <task id="LOCAL-00001" summary="added tutorial 4 - &quot;While loops&quot;">
+      <created>1456934434243</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1456934434243</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
