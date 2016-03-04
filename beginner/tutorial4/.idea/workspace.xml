@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f434b24-33e2-4bfc-996a-d63d6fe27d5c" name="Default" comment="added tutorial 4 - &quot;While loops&quot;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial1/out/production/tutorial1/Application.class" afterPath="$PROJECT_DIR$/../tutorial1/out/production/tutorial1/Application.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tutorial2/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../tutorial2/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="tutorial4.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -326,7 +326,13 @@
       <option name="project" value="LOCAL" />
       <updated>1456934434243</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="committed latest workspace">
+      <created>1456934505828</created>
+      <option name="number" value="00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1456934505828</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -376,7 +382,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="added tutorial 4 - &quot;While loops&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="added tutorial 4 - &quot;While loops&quot;" />
+    <MESSAGE value="committed latest workspace" />
+    <option name="LAST_COMMIT_MESSAGE" value="committed latest workspace" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
